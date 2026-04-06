@@ -23,4 +23,3 @@ Deployed using Streamlit Cloud.
 - Real-time gesture recognition
 - Deep learning (CNN)
 - Hand detection using MediaPipe
-- 
